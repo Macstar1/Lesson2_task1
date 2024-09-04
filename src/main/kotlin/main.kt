@@ -12,5 +12,5 @@ fun tax(amount: Int): Double {
     }
 }
 
-const val COMMISSION = 0.75
+const val COMMISSION = 0.0075
 const val MIN_TAX = 35
